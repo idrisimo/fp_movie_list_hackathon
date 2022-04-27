@@ -1,7 +1,7 @@
 # Movies lister
 
 ## What it does
-- 
+- Part of a mini hackathon to build a web app using flask.
  
 ## Setup
 ***
